@@ -1,2 +1,3 @@
-<img src="grok_1786177615893.jpg" alt="Raj Media Photo">
+<img src="grok_1786177615893.jpg" alt="Raj Media Logo">
+
 
